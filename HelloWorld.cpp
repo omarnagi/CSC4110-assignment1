@@ -11,7 +11,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Testing git merge!"; 
+    cout<<"Hello World"; 
       
     return 0; 
 } 
